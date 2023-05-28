@@ -1,9 +1,9 @@
 #
 # Cyclistic cap stone study
 # script to extract, transform and load data
-# target application is Tableau desktop via generate csv file
+# target application is Tableau desktop via generated csv file
 # input will be source data from folder with csv files
-# output will be CVS file
+# output will be CVS file that will load with Tableau desktop
 # folder paths can be predefined or queried
 # apply humor when appropriate
 
